@@ -3,7 +3,9 @@
   Also, I love to teach other people about technology and programming languages.
 - 🌱 I’m a lifelong learner of technology and in this rapidly changing technology world, my current focus is on Data Analysis, SQL, NoSQL, ETL, etc...
 - 💞️ I’m looking to collaborate on Any Data Analysis Projects, or Python projects or teach Computer Engineering subjects like DSA, Programming, Visualization etc...
-- 📫 How to reach me: LinkedIn: www.linkedin.com/in/dhruven-prajapati
+- 📫 How to reach me:
+                  - LinkedIn: www.linkedin.com/in/dhruven-prajapati
+                  - Tableau Public: https://public.tableau.com/app/profile/dhruven.prajapati 
 
 <!---
 DhruvenPrajapati/DhruvenPrajapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
